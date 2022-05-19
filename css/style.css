@@ -357,7 +357,7 @@ footer .social a{
 
 
 /* Mobile */
-@media(max-width: 500px){
+@media(max-width: 300px){
     .navbar{
         height: 110px;
     }
